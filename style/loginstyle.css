@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: green;
+	background-position: center ;
+	font-family: sans-serif;
+	
+}
+
+#hello{
+	text-align: center;
+}
