@@ -1,0 +1,593 @@
+/* @media only screen and (min-width: 600px) { */
+  /* /* For tablets: */ */
+   .header {width: 59%;} 
+  /* .menubar {width: 16.66%;} */
+  /* .col-s-3 {width: 25%;} */
+  /* .col-s-4 {width: 33.33%;} */
+  /* .col-s-5 {width: 41.66%;} */
+  /* .col-s-6 {width: 50%;} */
+  /* .col-s-7 {width: 58.33%;} */
+  /* .col-s-8 {width: 66.66%;} */
+  /* .col-s-9 {width: 75%;} */
+  /* .col-s-10 {width: 83.33%;} */
+  /* .col-s-11 {width: 91.66%;} */
+  /* .col-s-12 {width: 100%;} */
+/* } */
+/* @media only screen and (min-width: 768px) { */
+  /* /* For desktop: */ */
+   .header {width: 59%;} 
+  /* .col-2 {width: 16.66%;} */
+  /* .col-3 {width: 25%;} */
+  /* .col-4 {width: 33.33%;} */
+  /* .col-5 {width: 41.66%;} */
+  /* .col-6 {width: 50%;} */
+  /* .col-7 {width: 58.33%;} */
+  /* .col-8 {width: 66.66%;} */
+  /* .col-9 {width: 75%;} */
+  /* .col-10 {width: 83.33%;} */
+  /* .col-11 {width: 91.66%;} */
+  /* .col-12 {width: 100%;} */
+/* } */
+
+
+
+
+
+
+
+html
+{ height: 100%;}
+
+.addpadding{
+	padding: 5px;
+}
+
+.addpadding2{
+	margin-top: 20px;
+}
+*
+{ margin: 0;
+  padding: 0;}
+  
+img{
+	width: 90%;
+	height: 80%;
+}
+
+#footparadiseimg{
+	max-width: 600px;
+}
+body
+{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+  background: #f0ebeb;
+  color: #000;}
+
+p
+{ padding: 0 0 20px 0;
+  line-height: 1.7em;}
+
+img
+{ border: 0;}
+
+#footlabimage{
+		margin-left: 30%;
+}
+
+#footlabimage1{
+	max-width: 600px;
+}
+
+#transfertavern1 {
+	max-width: 600px;
+}
+
+#logo_text {
+	
+}
+
+#red_color 
+{ color: red;
+}
+
+.green_color
+{
+	color: green;
+}
+h1, h2, h3, h4, h5, h6 
+{ font: normal 175% 'century gothic', arial, sans-serif;
+  color: #000;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;}
+
+h2
+{ font: normal 175% 'century gothic', arial, sans-serif;}
+
+.loginbox p{
+	font-size: 2vw;
+}
+
+.loginbox{
+	position: relative;
+	width: 33%;
+	height: 30%;
+	background: green;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	box-sizing: border-box;
+	padding: 70px 40px;
+	left: 30%;
+	
+}
+
+.loginbox h1{
+	text-align: center;
+	margin: 0;
+	padding: 0 0 10px;
+	font-size: 15px;
+	color: white;
+	top: 50px;
+}
+
+.loginbox p{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.loginbox input {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.loginbox input[type="text"], input[type="password"]{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 30px;
+	color: #fff;
+	font-size: 16px;
+	
+}
+
+.loginbox input[type="submit"] {
+	border: none;
+	outline: none;
+	height: 30px;
+	background: #fb2525;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+	
+.loginbox input[type="submit"]:hover {
+	cursor: pointer;
+	background: #ffc107;
+	color: #000;
+}
+
+.loginbox a{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 20px;
+	color: darkgrey;
+}
+
+.loginbox a:hover {
+	color: yellow;
+	
+	
+}
+.movethis{
+	position: relative;
+	top:20%;
+}
+
+h4, h5, h6
+{ margin: 0;
+  padding: 0 0 5px 0;
+  font: normal 120% arial, sans-serif;}
+
+h5, h6
+{ font: italic 95% arial, sans-serif;
+  padding: 0 0 15px 0;}
+
+a, a:hover
+{ outline: none;
+  text-decoration: underline;
+  color: #000;}
+
+a:hover
+{ text-decoration: none;}
+
+.left
+{ float: left;
+  width: auto;
+  margin-right: 10px;}
+
+.right
+{ float: right; 
+  width: auto;
+  margin-left: 10px;}
+
+.center
+{ display: block;
+  text-align: center;
+  margin: 20px auto;}
+
+.upwards{
+	bottom: 30px;
+	position: relative;
+}
+
+#registerhere {
+	top: -40px;
+	position: relative;
+	border-bottom: solid white;
+	
+}
+
+blockquote
+{ margin: 20px 0; 
+  padding: 10px 20px 0 20px;
+  border: 1px solid #E5E5DB;
+  background: #FFF;}
+
+ul
+{ margin: 2px 0 22px 17px;}
+
+ul li
+{ list-style-type: circle;
+  margin: 0 0 6px 0; 
+  padding: 0 0 4px 5px;}
+
+ol
+{ margin: 8px 0 22px 20px;}
+
+ol li
+{ margin: 0 0 11px 0;}
+
+
+#main, #logo, #menubar, #site_content, #footer
+{ margin-left: auto; 
+  margin-right: auto;}
+
+#header
+{ background: transparent;
+  height: 202px;}
+
+#logo
+{ width: 60%;
+  position: relative;
+  height: 148px;
+  border-bottom: 2px solid #FFF;}
+
+#logo #logo_text 
+{ position: absolute; 
+  top: 20px;
+  left: 0;}
+
+#logo h1, #logo h2
+{ font: normal 300% 'century gothic', arial, sans-serif;
+  border-bottom: 0;
+  text-transform: none;
+  margin: 0;}
+
+#logo_text h1, #logo_text h1 a, #logo_text h1 a:hover 
+{ padding: 22px 0 0 0;
+  color: #FFF;
+  letter-spacing: -1px;
+  text-decoration: none;}
+
+#logo_text h1 a .logo_colour
+{ color: #035c0c;}
+
+#logo_text h2 
+{ font-size: 100%;
+  padding: 4px 0 0 0;
+  color: #035c0c;}
+  
+#loginhere{
+	position: absolute;
+	top: 30px;
+	margin-left: 3%;
+	border-bottom: solid white;
+}
+.loginbox h1{
+	font-size: 1.5vw;
+}
+/* #menubar */
+/* { width: 898px; */
+  /* height: 52px; */
+  /* padding: 0; */
+  /* background: green;}  */
+
+#menubar 
+ { width: 59%; 
+   height: 52px; 
+   padding: 0; 
+   background: green;} 
+
+ul#menu, ul#menu li
+{ float: left;
+  margin: 0; 
+  padding: 0;}
+
+ul#menu li
+{ list-style: none;}
+
+ul#menu li a
+{ letter-spacing: 0.1em;
+  font: normal 100% arial, sans-serif;
+  display: block; 
+  float: left; 
+  height: 10%;
+  margin: 10px 0 0 10px;
+  padding: 9px 26px 6px 26px;
+  text-align: center;
+  color: #FFF;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: transparent;} 
+
+ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
+{ color: #FFF;
+  background: transparent url(transparent_light.png) repeat;}
+
+#site_content
+{ width: 56%;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  padding: 0 24px 20px 20px;
+  background: #FFF;} 
+
+.sidebar
+{ float: right;
+  width: 20%;
+  padding: 0 15px 20px 15px;}
+
+.sidebar ul
+{ width: 20%; 
+  padding: 4px 0 0 0; 
+  margin: 4px 0 30px 0;}
+
+.sidebar li
+{ list-style: none; 
+  padding: 0 0 7px 0; }
+
+.sidebar li a, .sidebar li a:hover
+{ padding: 0 0 0 40px;
+  display: block;
+  background: transparent url(link.png) no-repeat left center;} 
+
+.sidebar li a.selected
+{ color: #7E2451;
+  text-decoration: none;} 
+
+#content
+{ text-align: left;
+  float: left;
+  width: 50%;
+  padding: 0;}
+
+#content ul
+{ margin: 2px 0 22px 0px;}
+
+#content ul li
+{ list-style-type: none;
+  background: url(bullet.png) no-repeat;
+  margin: 0 0 6px 0; 
+  padding: 0 0 4px 25px;
+  line-height: 1.5em;}
+
+#footer
+{ width: 80%;
+  font: normal 100% 'lucida sans unicode', arial, sans-serif;
+  height: 33px;
+  padding: 24px 0 5px 0;
+  text-align: center; 
+  background: transparent;
+  color: #FFF;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;}
+
+#footer a
+{ color: #FFF;
+  text-decoration: none;}
+
+#footer a:hover
+{ color: #FFF;
+  text-decoration: underline;}
+
+.search
+{ color: #5D5D5D; 
+  border: 1px solid #BBB; 
+  width: 134px; 
+  padding: 4px; 
+  font: 100% arial, sans-serif;}
+
+#colours
+{ height: 0px;
+  text-align: right;
+  padding: 66px 16px 0px 300px;}
+  
+.form_settings
+{ margin: 15px 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 200px; 
+  text-align: left;}
+  
+.form_settings input, .form_settings textarea
+{ padding: 5px; 
+  width: 299px; 
+  font: 100% arial; 
+  border: 1px solid #E5E5DB; 
+  background: #FFF; 
+  color: #47433F;}
+  
+.form_settings .submit
+{ font: 100% arial; 
+  border: 1px solid; 
+  width: 99px; 
+  margin: 0 0 0 212px; 
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #000; 
+  color: #FFF;}
+
+.form_settings textarea, .form_settings select
+{ font: 100% arial; 
+  width: 299px;}
+
+.form_settings select
+{ width: 310px;}
+
+.form_settings .checkbox
+{ margin: 4px 0; 
+  padding: 0; 
+  width: 14px;
+  border: 0;
+  background: none;}
+
+.separator
+{ width: 100%;
+  height: 0;
+  border-top: 1px solid #D9D5CF;
+  border-bottom: 1px solid #FFF;
+  margin: 0 0 20px 0;}
+  
+table
+{ margin: 10px 0 30px 0;}
+
+table tr th, table tr td
+{ background: #3B3B3B;
+  color: #FFF;
+  padding: 7px 4px;
+  text-align: left;}
+  
+table tr td
+{ background: #F0EFE2;
+}
+
+.black_color {
+	color: black;
+	
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+  width: 350px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #A0522D;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -25px;
+  width: 100%;
+  text-align: center;
+  font-style: univers;
+}
+
+/* Number text (1/3 etc) */
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+.slideshow-container img{
+    height: 400px;
+    width: 100px;
+}
+
+#third-title{
+    text-align: center;
+    color: rgb(122, 70, 11);
+    font-weight: bold;
+    text-shadow:
+    -1px -1px 0 rgb(12, 10, 10),
+    -30px 20px 40px #ffffff;
+    font-family: optimus;
+    font-size: 35px;
+}
+
+#third-undertitle{
+    text-align: center;
+    color: rgb(122, 70, 11);
+    font-family: univers;
+    font-size: 20px;
+}
